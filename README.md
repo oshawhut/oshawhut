@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on the Helsinki Full Stack Course
+- 🌱 I’m currently learning React
+- 📫 How to reach me: Email
+- ⚡ Fun fact: I sleep with my eyes open!
 <!--
 **dinningway/dinningway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
