@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on the ~Helsinki Full Stack Course~Odin Project
+- 🔭 I’m currently working on the ~Helsinki Full Stack Course~ Odin Project
 - 🌱 I’m currently learning Javascript & React
 - 📫 How to reach me: Email
 - ⚡ Fun fact: I sleep with my eyes open!
