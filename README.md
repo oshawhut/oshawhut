@@ -1,6 +1,7 @@
 ### Hi there 👋
+- 📚 I'm a student studying IT at a Universsity
 - 🔭 I’m currently working on the ~Helsinki Full Stack Course~ Odin Project
-- 🌱 I’m currently learning Javascript & React
+- 🌱 I’m currently learning Javascript, React, and my SEC+ certification
 - 📫 How to reach me: Email
 - ⚡ Fun fact: I sleep with my eyes open!
 <!--
