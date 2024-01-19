@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 📚 I'm a student studying IT at a Universsity
+- 📚 I'm a student studying IT at a University on the East Coast
 - 🔭 I’m currently working on the ~Helsinki Full Stack Course~ Odin Project
 - 🌱 I’m currently learning Javascript, React, and my SEC+ certification
 - 📫 How to reach me: Email
